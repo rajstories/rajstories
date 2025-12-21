@@ -196,7 +196,7 @@ Battle-tested under pressure - 15+ hackathons, multiple wins
 
 💼 **Open to internship opportunities in AI/ML & Full-Stack Development**
 
-📫 Reach out to me at **[your-email@gmail.com](mailto:rajshrivastav283815@gmail.com)**
+📫 Reach out to me at **[my-email@gmail.com](mailto:rajshrivastav283815@gmail.com)**
 
 <br/>
 
