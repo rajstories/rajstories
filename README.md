@@ -83,7 +83,6 @@ Built **SAKSHAM** for NDMA - Real-time disaster management training monitoring s
 
 - Worked on security analysis and vulnerability assessment
 - Gained hands-on experience with industry-standard security tools
-- [Add 1-2 more bullet points about what you did]
 
 </td>
 </tr>
