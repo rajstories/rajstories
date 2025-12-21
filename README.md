@@ -139,7 +139,7 @@ Real-time monitoring system for NDMA to track disaster management trainings acro
 
 `FastAPI` `React` `PostgreSQL` `Mapbox` `Redis` `PWA`
 
-<a href="https://github.com/rajstories/PROJECT-SAKSHAM"><img src="https://img.shields.io/badge/View_Repo-181717? style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/rajstories/PROJECT-SAKSHAM"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
@@ -166,7 +166,7 @@ Multilingual, voice-driven business management app for Indian street vendors wit
 
 `React` `TypeScript` `Web Speech API` `PostgreSQL` `i18n`
 
-<a href="https://github.com/rajstories/Apna-Thela"><img src="https://img.shields.io/badge/View_Repo-181717? style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/rajstories/Apna-Thela"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
