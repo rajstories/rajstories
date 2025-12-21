@@ -132,26 +132,26 @@ Built **SAKSHAM** for NDMA - Real-time disaster management training monitoring s
 <tr>
 <td width="50%">
 
-### 🏆 [SAKSHAM - Disaster Management](https://github.com/rajstories/PROJECT-SAKSHAM)
+### 🏆 SAKSHAM - Disaster Management
 **🥈 SIH 2025 Grand Finale Runner-Up**
 
 Real-time monitoring system for NDMA to track disaster management trainings across India.
 
 `FastAPI` `React` `PostgreSQL` `Mapbox` `Redis` `PWA`
 
-[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/PROJECT-SAKSHAM)
+<a href="https://github.com/rajstories/PROJECT-SAKSHAM"><img src="https://img.shields.io/badge/View_Repo-181717? style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 🤖 [BuildDost - AI Website Builder](https://github.com/rajstories/BuildDost)
+### 🤖 BuildDost - AI Website Builder
 **🏆 Hackathon Winner Project**
 
-AI-powered platform that generates full-stack web apps from natural language descriptions. 
+AI-powered platform that generates full-stack web apps from natural language descriptions.
 
 `React` `TypeScript` `Express` `PostgreSQL` `OpenAI`
 
-[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/BuildDost)
+<a href="https://github.com/rajstories/BuildDost"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -159,26 +159,26 @@ AI-powered platform that generates full-stack web apps from natural language des
 <tr>
 <td width="50%">
 
-### 🛒 [Apna Thela - Voice-First App](https://github.com/rajstories/Apna-Thela)
+### 🛒 Apna Thela - Voice-First App
 **Empowering 3.5 Crore Street Vendors**
 
-Multilingual, voice-driven business management app for Indian street vendors with offline support. 
+Multilingual, voice-driven business management app for Indian street vendors with offline support.
 
 `React` `TypeScript` `Web Speech API` `PostgreSQL` `i18n`
 
-[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/Apna-Thela)
+<a href="https://github.com/rajstories/Apna-Thela"><img src="https://img.shields.io/badge/View_Repo-181717? style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 📚 [Pooja Academy - EdTech Platform](https://github.com/rajstories/EducationPlatform)
+### 📚 Pooja Academy - EdTech Platform
 **1000+ Students | JEE & NEET Coaching**
 
 Full-stack education platform with video lectures, attendance, results, SMS notifications & payments.
 
 `React` `Node.js` `PostgreSQL` `Twilio` `Razorpay`
 
-[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/EducationPlatform)
+<a href="https://github.com/rajstories/EducationPlatform"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
@@ -186,36 +186,38 @@ Full-stack education platform with video lectures, attendance, results, SMS noti
 <tr>
 <td width="50%">
 
-### 💻 [Nexus - Hackathon Platform](https://github.com/rajstories/Nexus-hackathon-platform)
+### 💻 Nexus - Hackathon Platform
 **Enterprise-Grade Management System**
 
 Complete hackathon management with role-based dashboards, real-time collaboration & multi-round evaluation.
 
 `React` `TypeScript` `Azure` `Firebase` `Socket.IO`
 
-[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/Nexus-hackathon-platform)
+<a href="https://github.com/rajstories/Nexus-hackathon-platform"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 <td width="50%">
 
-### 📱 [SAKSHAM PWA - Trainer App](https://github.com/rajstories/Saksham_PWA)
+### 📱 SAKSHAM PWA - Trainer App
 **Part of SIH 2025 Winning Project**
 
 Offline-first Progressive Web App for field trainers to submit training reports.
 
 `React` `TypeScript` `PWA` `Workbox` `IndexedDB`
 
-[![Code](https://img.shields.io/badge/View-Code-blue?style=flat-square)](https://github.com/rajstories/Saksham_PWA)
+<a href="https://github.com/rajstories/Saksham_PWA"><img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
 
 <div align="center">
-  
-[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-181717? style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajstories?tab=repositories)
-  
+
+<a href="https://github.com/rajstories? tab=repositories"><img src="https://img.shields.io/badge/View_All_Projects_→-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </div>
+
+---
 
 ---
 
