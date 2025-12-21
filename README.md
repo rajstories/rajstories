@@ -128,23 +128,96 @@ Built **SAKSHAM** for NDMA - Real-time disaster management training monitoring s
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
+### 🏆 [SAKSHAM - Disaster Management](https://github.com/rajstories/PROJECT-SAKSHAM)
+**🥈 SIH 2025 Grand Finale Runner-Up**
+
+Real-time monitoring system for NDMA to track disaster management trainings across India.
+
+`FastAPI` `React` `PostgreSQL` `Mapbox` `Redis` `PWA`
+
+[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/PROJECT-SAKSHAM)
+
+</td>
+<td width="50%">
+
+### 🤖 [BuildDost - AI Website Builder](https://github.com/rajstories/BuildDost)
+**🏆 Hackathon Winner Project**
+
+AI-powered platform that generates full-stack web apps from natural language descriptions. 
+
+`React` `TypeScript` `Express` `PostgreSQL` `OpenAI`
+
+[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/BuildDost)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛒 [Apna Thela - Voice-First App](https://github.com/rajstories/Apna-Thela)
+**Empowering 3.5 Crore Street Vendors**
+
+Multilingual, voice-driven business management app for Indian street vendors with offline support. 
+
+`React` `TypeScript` `Web Speech API` `PostgreSQL` `i18n`
+
+[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/Apna-Thela)
+
+</td>
+<td width="50%">
+
+### 📚 [Pooja Academy - EdTech Platform](https://github.com/rajstories/EducationPlatform)
+**1000+ Students | JEE & NEET Coaching**
+
+Full-stack education platform with video lectures, attendance, results, SMS notifications & payments.
+
+`React` `Node.js` `PostgreSQL` `Twilio` `Razorpay`
+
+[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/EducationPlatform)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💻 [Nexus - Hackathon Platform](https://github.com/rajstories/Nexus-hackathon-platform)
+**Enterprise-Grade Management System**
+
+Complete hackathon management with role-based dashboards, real-time collaboration & multi-round evaluation.
+
+`React` `TypeScript` `Azure` `Firebase` `Socket.IO`
+
+[![Code](https://img.shields.io/badge/View-Code-blue? style=flat-square)](https://github.com/rajstories/Nexus-hackathon-platform)
+
+</td>
+<td width="50%">
+
+### 📱 [SAKSHAM PWA - Trainer App](https://github.com/rajstories/Saksham_PWA)
+**Part of SIH 2025 Winning Project**
+
+Offline-first Progressive Web App for field trainers to submit training reports.
+
+`React` `TypeScript` `PWA` `Workbox` `IndexedDB`
+
+[![Code](https://img.shields.io/badge/View-Code-blue?style=flat-square)](https://github.com/rajstories/Saksham_PWA)
+
+</td>
+</tr>
+</table>
+
 <div align="center">
-
-<a href="https://github.com/rajstories/PROJECT-SAKSHAM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/? username=rajstories&repo=PROJECT-SAKSHAM&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/rajstories/BuildDost">
-  <img src="https://github-readme-stats.vercel. app/api/pin/?username=rajstories&repo=BuildDost&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/rajstories/Apna-Thela">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajstories&repo=Apna-Thela&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/rajstories/EducationPlatform">
-  <img src="https://github-readme-stats.vercel. app/api/pin/?username=rajstories&repo=EducationPlatform&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
+  
+[![View All Projects](https://img.shields.io/badge/View%20All%20Projects%20→-181717? style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajstories?tab=repositories)
+  
 </div>
+
+---
 
 ---
 
