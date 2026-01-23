@@ -252,16 +252,67 @@ Battle-tested under pressure - 15+ hackathons, multiple wins
 </tr>
 </table>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rajstories&theme=tokyonight&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajstories&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" width="41%"/>
-  
+
+<!-- Most Used Languages (Left) + Contribution Graph (Right) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajstories&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&card_width=450" width="38%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajstories&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58a6ff&line=ff6b6b&point=58a6ff" width="60%" />
+
 </div>
----
+
+<div align="center">
+
+<!-- Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=rajstories&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" width="100%" />
+
+</div>
+
+<!-- Detailed Analytics (Expandable) -->
+<details>
+<summary><b>📈 More Detailed Analytics</b></summary>
+<br/>
+
+<div align="center">
+
+<!-- Profile Details -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajstories&theme=tokyonight" width="100%" />
+
+</div>
+
+<div align="center">
+
+<!-- Most Commit Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajstories&theme=tokyonight" width="32%" />
+
+<!-- Repos per Language -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajstories&theme=tokyonight" width="32%" />
+
+<!-- Stats -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajstories&theme=tokyonight" width="32%" />
+
+</div>
+
+<div align="center">
+
+<!-- Productive Time (IST timezone) -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajstories&theme=tokyonight&utcOffset=5.5" width="49%" />
+
+<!-- Top Languages Donut -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajstories&theme=tokyonight&layout=donut&hide_border=true&bg_color=0D1117" width="49%" />
+
+</div>
+
+
+<!-- Visitor Badge -->
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=rajstories&color=58a6ff&style=for-the-badge&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/rajstories?style=for-the-badge&color=58a6ff)](https://github.com/rajstories?tab=followers)
+
+</div>
+
 
 ## 🤝 Let's Connect!
 
