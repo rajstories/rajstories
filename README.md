@@ -25,7 +25,7 @@
 
 🔐 Former **Cybersecurity Intern @ CDAC**
 
-🏆 **15+ Hackathons | 5x Finalist | SIH'25 Runner-up**
+🏆 **15+ Hackathons | 5x Finalist | SIH'25 Runner-up | 2x Winner**
 
 💡 I build solutions that solve **real-world problems**
 
