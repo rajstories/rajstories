@@ -13,13 +13,13 @@
 <h3>AI Engineer | Agentic Systems | Applied ML & Data | SIH'25 Runner-Up</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+    <a href="https://https://www.linkedin.com/in/rajhub/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://yourportfolio.com" target="_blank">
+    <a href="https://www.raj23cs331.codes/" target="_blank">
       <img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="mailto:yourmail@example.com" target="_blank">
+    <a href="mailto:rajshrivastav283815@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/EMAIL-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://github.com/rajstories?tab=repositories" target="_blank">
