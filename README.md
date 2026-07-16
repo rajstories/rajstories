@@ -5,15 +5,27 @@
 -->
 
 <!-- Header Banner -->
-<img width="2508" height="627" alt="image" src="https://github.com/user-attachments/assets/f9b32d9d-1374-4eea-9f3b-cb51b1c6713c" />
 
+<img width="2508" height="627" alt="image" src="https://github.com/user-attachments/assets/f9b32d9d-1374-4eea-9f3b-cb51b1c6713c" />
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rajhub/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rajstories.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajshrivastav283815@gmail.com)
-[![Projects](https://img.shields.io/badge/All_Projects-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/rajstories?tab=repositories)
+<h3>AI Engineer | Agentic Systems | Applied ML & Data | SIH'25 Runner-Up</h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://yourportfolio.com" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="mailto:yourmail@example.com" target="_blank">
+      <img src="https://img.shields.io/badge/EMAIL-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/rajstories?tab=repositories" target="_blank">
+      <img src="https://img.shields.io/badge/ALL_PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+    </a>
+  </p>
 
 </div>
 
