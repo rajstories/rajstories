@@ -5,10 +5,8 @@
 -->
 
 <!-- Header Banner -->
+<img width="2508" height="627" alt="image" src="https://github.com/user-attachments/assets/f9b32d9d-1374-4eea-9f3b-cb51b1c6713c" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Hey,%20I'm%20Raj%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20|%20Agentic%20Systems%20|%20Applied%20ML%20%26%20Data%20|%20SIH'25%20Runner-Up&descAlignY=53&descSize=17" width="100%" alt="Raj - AI Engineer building agentic systems, applied machine learning and data products"/>
-</div>
 
 <div align="center">
 
