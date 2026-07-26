@@ -160,17 +160,15 @@ Led a team to build **SAKSHAM** for the National Disaster Management Authority �
 
 <td width="50%" valign="top">
 
-### 🔐 Cybersecurity Intern
+### 💼 Software Developer Intern
 
-**Centre for Development of Advanced Computing (CDAC)**
-*Jul 2025 - Sep 2025*
+**Rocker Solar Solutions**
+*Oct 2025 - March 2026*
 
-* Performed security analysis and vulnerability assessment
-* Worked with industry-standard security tools and protocols
-* Built practical understanding of secure systems and cybersecurity fundamentals
-
+* Built an end-to-end CRM platform managing leads, dealers, customers, warehouse, and finance operations (40% productivity gain)
+* Developed a 2D/3D solar design and cost-estimation platform for residential and commercial projects (30% lower costing effort)
+* Collaborated cross-functionally to design, build, and optimize scalable business applications
 </td>
-
 </tr>
 </table>
 
