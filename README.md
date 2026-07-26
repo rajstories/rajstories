@@ -1,7 +1,7 @@
 <!--
   GitHub Profile README
   Raj Shrivastav
-  Focus: AI Engineer | Agentic AI | Applied Machine Learning | Data Systems | AI Automation
+  Focus: AI Systems Engineer | Agentic AI | LLM Applications | AI Automation | Data Systems
 -->
 
 <!-- Header Banner -->
@@ -10,10 +10,10 @@
 
 <div align="center">
 
-<h3>AI Engineer | Agentic Systems | Applied ML & Data | SIH'25 Runner-Up</h3>
+<h3>AI Systems Engineer | Agentic AI, LLMs & Automation | SIH'25 Grand Finale Runner-Up</h3>
 
   <p>
-    <a href="https://https://www.linkedin.com/in/rajhub/" target="_blank">
+    <a href="https://www.linkedin.com/in/rajhub/" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="https://www.raj23cs331.codes/" target="_blank">
@@ -35,15 +35,15 @@
 
 🏫 **B.Tech CSE @ Delhi Technological University (DTU '27)**
 
-🤖 **AI Engineer** building production-oriented **Agentic AI systems, ML products & intelligent automation**
+🤖 **AI Systems Engineer** building production **Agentic AI systems, LLM applications & intelligent automation**
 
-💼 **AI Engineer Intern @ LXDIA AI Pvt. Ltd.**
+💼 **AI Engineering Intern @ LXDIA AI Pvt. Ltd.**
 
 🔐 Former **Cybersecurity Intern @ CDAC**
 
-🏆 **15+ Hackathons | 7x National Finalist | 2x Winner | SIH '25 Grand Finale Runner-Up**
+🏆 **4x National Finalist | Winner @ Brainwave 2.0 | SIH '25 Grand Finale Runner-Up (Team Lead)**
 
-🧠 Exploring **Multi-Agent Systems, Applied ML, Data Engineering & AI Automation**
+📈 **Founder @storybyaish** — 445K+ follower AI content platform
 
 ⚡ I build systems that move from **ideas and prototypes to real-world products**
 
@@ -64,9 +64,9 @@ Multi-agent orchestration, tool use, memory, verification, and human approval wo
 
 <td align="center" width="25%">
 
-### 🧠 Applied ML
+### 🧠 Applied AI
 
-Explainable models, multimodal inference, forecasting, and production model APIs
+LLM applications, RAG, semantic search, and production model & API integration
 
 </td>
 
@@ -100,9 +100,9 @@ Shipping complete experiences from research and architecture to deployment
 
 ### 🥈 Smart India Hackathon 2025
 
-**Grand Finale - Runner-Up**
+**Grand Finale - Runner-Up (Team Lead)**
 
-Built **SAKSHAM** for the National Disaster Management Authority, a real-time disaster management training and monitoring ecosystem with offline-first PWA, dashboards, intelligent monitoring, and data-driven insights.
+Led a team to build **SAKSHAM** for the National Disaster Management Authority — a real-time disaster management training and monitoring ecosystem with offline-first PWA, dashboards, intelligent monitoring, and data-driven insights.
 
 </td>
 
@@ -112,8 +112,9 @@ Built **SAKSHAM** for the National Disaster Management Authority, a real-time di
 
 ```text
 🏅 Hackathons Participated : 15+
-🎖️ National Finalist       : 7x
-🏆 Hackathon Winner         : 2x
+🎖️ National Finalist       : 4x
+🏆 Hackathon Winner         : Brainwave 2.0
+🎯 Hack4Delhi              : Top 5 Finalist
 🥈 SIH 2025                : Grand Finale Runner-Up
 ```
 
@@ -127,11 +128,12 @@ Built **SAKSHAM** for the National Disaster Management Authority, a real-time di
 
 <br/>
 
-| Hackathon                  | Position                  | Project  | Year |
-| -------------------------- | ------------------------- | -------- | ---- |
-| Smart India Hackathon      | 🥈 Grand Finale Runner-Up | SAKSHAM  | 2025 |
-| SynapHack                  | 🎖️ Finalist              | Nexus    | 2025 |
-| StartUp SpotLight E-Summit | 🎖️ Finalist              | JantaTax | 2025 |
+| Hackathon             | Position                           | Project     | Year |
+| --------------------- | ---------------------------------- | ----------- | ---- |
+| Smart India Hackathon | 🥈 Grand Finale Runner-Up (Lead)   | SAKSHAM     | 2025 |
+| Brainwave 2.0         | 🏆 Winner                          | —           | 2026 |
+| Hack4Delhi            | 🎖️ Top 5 Finalist                 | WardWatch AI| 2026|
+| SynapHack             | 🎖️ Finalist                       | Nexus       | 2025 |
 
 </details>
 
@@ -144,14 +146,14 @@ Built **SAKSHAM** for the National Disaster Management Authority, a real-time di
 
 <td width="50%" valign="top">
 
-### 🤖 AI Engineer Intern
+### 🤖 AI Engineering Intern
 
 **LXDIA AI Pvt. Ltd.**
-*Apr 2026 - Jul 2026*
+*Apr 2026 - Present*
 
-* Built and deployed ML/AI workflows and LLM-based agents
+* Built and deployed LLM-based agents and AI automation workflows
 * Engineered an automated research-to-script content pipeline
-* Developed real-time AI voice-calling workflows
+* Developed real-time AI voice-calling workflows (STT, LLM, TTS, SIP)
 * Worked across AI automation, agent workflows, and production-oriented AI systems
 
 </td>
@@ -182,29 +184,13 @@ Built **SAKSHAM** for the National Disaster Management Authority, a real-time di
 
 <td width="50%" valign="top">
 
-### 🎓 XE Academy
-
-**Live Community-First EdTech Platform**
-
-One account for structured courses, live cohorts, discussions, and creator-owned learning communities.
-
-`React 19` `TypeScript` `Clerk` `Redis` `PostHog`
-
-<a href="https://xeacademy.com">
-<img src="https://img.shields.io/badge/Live_Product-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
 ### 🛡️ ThreatGraph
 
 **Agentic SOC with Persistent Attack Memory**
 
-Splunk-native multi-agent security system that connects alert floods to historical Neo4j campaigns and coordinates remediation.
+Multi-agent security system that connects Splunk alert floods to historical Neo4j campaigns and coordinates remediation — 5 agents, up to 22 automated actions per incident.
 
-`Splunk MCP` `Neo4j` `Node.js` `React`
+`Python` `Splunk MCP` `Neo4j` `Gemini`
 
 <a href="https://github.com/rajstories/ThreatGraph_Splunk">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -216,25 +202,29 @@ Splunk-native multi-agent security system that connects alert floods to historic
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%" valign="top">
 
-### 🚦 GeoVision
+### ⏰ Deadline Rescue
 
-**Evidence-Backed Traffic Intelligence**
+**Agentic Workflow Automation**
 
-Forecasts event-driven congestion, recommends deployment, allocates resources, and learns from verified outcomes using ASTRAM data.
+7-agent, human-in-the-loop system that prepares 4 parallel deliverables across 11 Google AI, Workspace & Cloud services, completing 80% of recovery work before approval.
 
-`Python` `Streamlit` `scikit-learn` `Data Analytics`
+`Gemini` `Google Workspace APIs` `Firestore` `Cloud Run`
 
-<a href="https://github.com/rajstories/GEovision_PS2">
+<a href="https://github.com/rajstories/DEADLINE-RESCUE-2">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://vibe2ship-948347071763.us-central1.run.app">
+<img src="https://img.shields.io/badge/Live_Product-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -242,19 +232,15 @@ Forecasts event-driven congestion, recommends deployment, allocates resources, a
 
 **Production-Ready Outbound Conversational AI**
 
-Low-latency phone agent combining real-time speech, Llama 3.3 reasoning, and Vobiz SIP connectivity.
+Low-latency phone agent combining real-time speech, Llama 3.3 reasoning, and SIP connectivity across 4 real-time layers (STT, LLM, TTS, telephony).
 
-`LiveKit` `Deepgram` `Groq` `Python`
+`Python` `LiveKit` `Deepgram` `Groq`
 
-<a href="https://github.com/rajstories/voice-calling-agent">
+<a href="https://github.com/rajstories">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -262,7 +248,7 @@ Low-latency phone agent combining real-time speech, Llama 3.3 reasoning, and Vob
 
 **Autonomous Offline SEO Audit Engine**
 
-Runs 17 deterministic checks, prioritizes issues, rewrites titles locally, maps broken URLs, and generates client-ready reports.
+Runs 17 deterministic checks in under 60 seconds, prioritizes issues, rewrites titles with a local LLM, maps broken URLs, and generates client-ready reports.
 
 `Python` `pandas` `Ollama` `MCP`
 
@@ -272,17 +258,37 @@ Runs 17 deterministic checks, prioritizes issues, rewrites titles locally, maps 
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### 🎬 Content Agent Pipeline
+### 📐 MetricGuard
 
-**Trend-to-Niche Creator Automation**
+**AI Metric-Consistency Auditor**
 
-Nine-stage agent workflow for trend discovery, hook mining, niche adaptation, script writing, CTA generation, storyboards, and verification.
+Detected 8 conflicting KPI definitions across 6 teams (66.7% of metrics) using embedding-based similarity, with a RAG layer and executive trust-risk dashboard.
 
-`Agent Workflows` `Prompt Engineering` `Content Intelligence` `Verification`
+`Python` `Embeddings` `RAG` `scikit-learn`
 
-<a href="https://github.com/rajstories/Content_Agent_pipeline">
+<a href="https://github.com/rajstories/MetricGuard-">
+<img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚦 GeoVision
+
+**Evidence-Backed Traffic Intelligence**
+
+Forecasts event-driven congestion with a 4-tier explainable fallback, hits a 0.4906 macro-F1, and recommends resource deployment for stakeholders.
+
+`Python` `Streamlit` `scikit-learn` `Data Analytics`
+
+<a href="https://github.com/rajstories/GEovision_PS2">
 <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -298,17 +304,29 @@ Nine-stage agent workflow for trend discovery, hook mining, niche adaptation, sc
 
 <br/>
 
+### 📚 ReelVault
+
+Semantic knowledge-search platform over PostgreSQL + pgvector with 384-dim embeddings, hybrid search, and 79 tests in CI.
+
+[View Live Product](https://reel-vault-tau.vercel.app/)
+
+### 🎬 Content Agent Pipeline
+
+Nine-stage agent workflow for trend discovery, hook mining, niche adaptation, script writing, CTA generation, storyboards, and verification.
+
+[View Repository](https://github.com/rajstories/Content_Agent_pipeline)
+
 ### 🌍 WardWatch AI
 
-Ward-level pollution intelligence platform designed for Delhi civic governance.
+Hyperlocal pollution-analytics dashboard for DPCC / Delhi Government covering all 272 wards (Hack4Delhi Top 5).
 
-[View Repository](https://github.com/rajstories/Delhi_pollution_goverment_portal)
+[View Live Product](https://delhi-pollution-goverment-portal.vercel.app/)
 
-### ⏰ Deadline Rescue
+### 🎓 XE Academy
 
-Proactive Google Workspace agents that prepare deliverables before deadlines slip.
+Community-first EdTech platform combining structured courses, live cohorts, and creator communities.
 
-[View Live Product](https://vibe2ship-948347071763.us-central1.run.app)
+[View Live Product](https://xeacademy.com)
 
 ### 🧠 MemBridge
 
@@ -318,7 +336,7 @@ Portable user context and memory infrastructure across ChatGPT, Claude, Gemini, 
 
 ### 🌫️ Air Quality Vision API
 
-Multimodal image and sensor-based air quality classification system served through FastAPI.
+Multimodal image and sensor-based air quality classification served through a validated, Docker-ready FastAPI service.
 
 [View Repository](https://github.com/rajstories/Multi-Modal-Air-Quality-Classification-with-Deep-learning---Fast-API)
 
@@ -327,12 +345,6 @@ Multimodal image and sensor-based air quality classification system served throu
 SIH 2025 Grand Finale Runner-Up project for disaster management training and monitoring for NDMA.
 
 [View Repository](https://github.com/rajstories/Saksham_SIH-Final)
-
-### 💎 Mehnaaz Jewellery
-
-Production ecommerce storefront delivered as freelance work.
-
-[View Live Website](https://mehnaaz-jewellery.vercel.app/)
 
 </details>
 
@@ -355,32 +367,30 @@ Production ecommerce storefront delivered as freelance work.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-EF4B4B?style=for-the-badge\&logo=probot\&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge\&logo=modelcontextprotocol\&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge\&logo=googlegemini\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge\&logo=groq\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge\&logo=ollama\&logoColor=white)
 
 ### 🧠 Machine Learning & Data
 
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge\&logo=neo4j\&logoColor=white)
 
-### 💻 Product Engineering
+### ⚙️ Backend & Infrastructure
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 </div>
 
@@ -498,13 +508,13 @@ Building end-to-end products under pressure through hackathons and real-world pr
 
 <div align="center">
 
-💼 Open to **AI Engineering, Applied ML, Data & Agentic Systems internships and collaborations**
+💼 Open to **AI Engineering, Applied AI, Agentic Systems & Data internships and collaborations**
 
 📫 Reach me at **[rajshrivastav283815@gmail.com](mailto:rajshrivastav283815@gmail.com)**
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://rajstories.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://www.raj23cs331.codes/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rajhub/)
 [![Email](https://img.shields.io/badge/Let's_Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajshrivastav283815@gmail.com)
 
